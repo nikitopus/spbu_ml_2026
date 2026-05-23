@@ -1,0 +1,1 @@
+🏆 Лучшие параметры: {regressor__subsample: 0.9, regressor__reg_lambda: 1.0, regressor__reg_alpha: 1.0, regressor__n_estimators: 2000, regressor__min_child_weight: 3, regressor__max_depth: 8, regressor__learning_rate: 0.1, regressor__gamma: 1.0, regressor__colsample_bytree: 0.7}
