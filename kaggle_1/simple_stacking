@@ -1,0 +1,1 @@
+🏆 Лучшие параметры стекинга: {stacking__xgboost__reg_alpha: 1.0, stacking__xgboost__n_estimators: 2000, stacking__xgboost__max_depth: 8, stacking__xgboost__learning_rate: 0.05, stacking__ridge__alpha: 0.1, stacking__final_estimator__alpha: 1.0, stacking__cv: 3}
